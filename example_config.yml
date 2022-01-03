@@ -1,0 +1,15 @@
+//Token of the bot
+token: ""
+
+//Token of the application which is used as the bot
+appID: ""
+
+//YouTube API token for song search purpouses
+youtubeToken: ""
+
+//Folder in which audio files will be downloaded to
+fileDir: "./audio"
+
+//Level of the logger, must be one of 
+//DEBUG, INFO, WARNING, ERROR, FATAL, PANIC
+logLevel: "ERROR"
